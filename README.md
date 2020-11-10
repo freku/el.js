@@ -1,4 +1,5 @@
 # el.js
+Create javascript elements with objects.
 ### Example
 ```javascript
   let div = el("div", {
