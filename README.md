@@ -1,6 +1,6 @@
 # el.js
-
-Example
+### Example
+```javascript
   let div = el("div", {
     className: "wrapper",
     id: "SomeId",
@@ -19,4 +19,4 @@ Example
       el("p", { innerText: "more messa" }),
       el("p", { innerText: "title here" }),
     ],
-  });
+  });```
